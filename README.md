@@ -5,4 +5,4 @@ A Mobile Applications which assists Gardeners with a user-friendly Dialogflow ch
 Stacks Used: Flutter, Firebase database, Dialogflow
 
 Here is a short clip of the application.
-https://drive.google.com/open?id=1FvDapuCR-c1YyI2_OsrD_ped2I7PSydT
+https://drive.google.com/file/d/1oVd2DfM9GzKJGV6BmryJ9G2y_1E8nbR9/view?usp=sharing
