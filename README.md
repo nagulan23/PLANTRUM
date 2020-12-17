@@ -1,4 +1,4 @@
-# PLANTRUM - A Mobile Application to assist gardeners
+# PLANTRUM - Mobile Application
 
 
 A Mobile Applications which assists Gardeners with a user-friendly Dialogflow chatbot connected to an integrated database and also provides active weather alerts.
