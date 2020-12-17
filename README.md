@@ -7,4 +7,4 @@ Stacks Used: Flutter, Firebase database, Dialogflow
 Here is a short clip of the application.
 https://drive.google.com/file/d/1oVd2DfM9GzKJGV6BmryJ9G2y_1E8nbR9/view?usp=sharing
 
-[![Watch the video](/assets for Readme/image.png)](https://drive.google.com/file/d/1oVd2DfM9GzKJGV6BmryJ9G2y_1E8nbR9/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1LffY6TwCGp2pUsON4ElkAxI6UwgFqCqL/view?usp=sharing)](https://drive.google.com/file/d/1oVd2DfM9GzKJGV6BmryJ9G2y_1E8nbR9/view?usp=sharing)
